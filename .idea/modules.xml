@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/netty+redis+zookeeper实战第2-8章——第10-11章源码/CocurrentDemos/CoccurrentDemos.iml" filepath="$PROJECT_DIR$/netty+redis+zookeeper实战第2-8章——第10-11章源码/CocurrentDemos/CoccurrentDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty+redis+zookeeper实战第2-8章——第10-11章源码/NioDemos/NIODemos.iml" filepath="$PROJECT_DIR$/netty+redis+zookeeper实战第2-8章——第10-11章源码/NioDemos/NIODemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty+redis+zookeeper实战第2-8章——第10-11章源码/NettyDemos/NettyDemos.iml" filepath="$PROJECT_DIR$/netty+redis+zookeeper实战第2-8章——第10-11章源码/NettyDemos/NettyDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty+redis+zookeeper实战第2-8章——第10-11章源码/RedisDemos/RedisDemos.iml" filepath="$PROJECT_DIR$/netty+redis+zookeeper实战第2-8章——第10-11章源码/RedisDemos/RedisDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty+redis+zookeeper实战第2-8章——第10-11章源码/ZookeeperDemos/ZookeeperDemos.iml" filepath="$PROJECT_DIR$/netty+redis+zookeeper实战第2-8章——第10-11章源码/ZookeeperDemos/ZookeeperDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty+redis+zookeeper实战第9 12章源码/chatclient/chat-client.iml" filepath="$PROJECT_DIR$/netty+redis+zookeeper实战第9 12章源码/chatclient/chat-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty+redis+zookeeper实战第9 12章源码/chatcommon/chat-common.iml" filepath="$PROJECT_DIR$/netty+redis+zookeeper实战第9 12章源码/chatcommon/chat-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty+redis+zookeeper实战第9 12章源码/chatserver/chat-server.iml" filepath="$PROJECT_DIR$/netty+redis+zookeeper实战第9 12章源码/chatserver/chat-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty+redis+zookeeper实战第2-8章——第10-11章源码/chatcommon/chatCommon.iml" filepath="$PROJECT_DIR$/netty+redis+zookeeper实战第2-8章——第10-11章源码/chatcommon/chatCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty+redis+zookeeper实战第2-8章——第10-11章源码/crazyCircleDemos.iml" filepath="$PROJECT_DIR$/netty+redis+zookeeper实战第2-8章——第10-11章源码/crazyCircleDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty+redis+zookeeper实战第9 12章源码/crazyIM.iml" filepath="$PROJECT_DIR$/netty+redis+zookeeper实战第9 12章源码/crazyIM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/netty_redis_zookeeper_source_code.iml" filepath="$PROJECT_DIR$/.idea/netty_redis_zookeeper_source_code.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/netty+redis+zookeeper实战第2-8章——第10-11章源码" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty+redis+zookeeper实战第2-8章——第10-11章源码/CocurrentDemos" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty+redis+zookeeper实战第2-8章——第10-11章源码/NettyDemos" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty+redis+zookeeper实战第2-8章——第10-11章源码/NioDemos" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty+redis+zookeeper实战第2-8章——第10-11章源码/RedisDemos" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty+redis+zookeeper实战第2-8章——第10-11章源码/ZookeeperDemos" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty+redis+zookeeper实战第2-8章——第10-11章源码/chatcommon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty+redis+zookeeper实战第9 12章源码" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty+redis+zookeeper实战第9 12章源码/chatclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty+redis+zookeeper实战第9 12章源码/chatcommon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty+redis+zookeeper实战第9 12章源码/chatserver" charset="UTF-8" />
+  </component>
+</project>

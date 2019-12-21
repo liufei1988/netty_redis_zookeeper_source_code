@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/netty+redis+zookeeper实战第2-8章——第10-11章源码/pom.xml" />
+        <option value="$PROJECT_DIR$/netty+redis+zookeeper实战第9 12章源码/pom.xml" />
+        <option value="$PROJECT_DIR$/netty+redis+zookeeper实战第2-8章——第10-11章源码/chatcommon/pom.xml" />
+        <option value="$PROJECT_DIR$/netty+redis+zookeeper实战第2-8章——第10-11章源码/NettyDemos/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
